@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/david/Escritorio/Github/IR-Sensor/IR-Sensor.sch)
-    (date "mar 25 dic 2018 13:05:20 CET")
+    (date "mar 25 dic 2018 13:36:51 CET")
     (tool "Eeschema 5.0.2-bee76a0~70~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -86,7 +86,7 @@
       (tstamp 5C226EE8))
     (comp (ref Q1)
       (value 2N7002)
-      (footprint TO_SOT_Packages_SMD:SOT-23)
+      (footprint TO_SOT_Packages_SMD:SOT-323_SC-70)
       (datasheet https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf)
       (libsource (lib Transistor) (part 2N7002) (description "0.115A Id, 60V Vds, N-channel MOSFET, SOT-23"))
       (sheetpath (names /) (tstamps /))
